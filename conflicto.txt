@@ -1,7 +1,7 @@
 uno
-dos
+2
 tres
-cuatro
+4
 cinco
-seis 
+6 
 siete
